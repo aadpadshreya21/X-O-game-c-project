@@ -18,6 +18,6 @@ You can compile and run the program using any C compiler (e.g., GCC).
 
 ### Using GCC (Linux/Windows)
 ```bash
-gcc code.c -o tictactoe
-./tictactoe
+gcc code.c 
+.\a.exe
 
