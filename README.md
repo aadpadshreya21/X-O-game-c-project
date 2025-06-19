@@ -1,4 +1,4 @@
-# Tic Tac Toe Game in C
+# X-O Game in C
 
 A simple console-based **two-player X-O game** written in C.  
 This was my **first C programming project**, and I created it to practice fundamental concepts like arrays, loops, conditionals, and functions.
